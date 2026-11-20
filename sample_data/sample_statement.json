@@ -1,0 +1,229 @@
+{
+  "transactions": [
+    {
+      "date": "2026-06-01",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF150631",
+      "value_date": "2026-06-01",
+      "withdrawal": "",
+      "deposit": "2064.89",
+      "closing_balance": "44064.89"
+    },
+    {
+      "date": "2026-06-02",
+      "narration": "UPI/402981/SWIGGY/REF77281",
+      "reference_number": "REF711097",
+      "value_date": "2026-06-02",
+      "withdrawal": "",
+      "deposit": "606.53",
+      "closing_balance": "44671.42"
+    },
+    {
+      "date": "2026-06-03",
+      "narration": "UPI/402981/SWIGGY/REF77281",
+      "reference_number": "REF190122",
+      "value_date": "2026-06-03",
+      "withdrawal": "",
+      "deposit": "1191.29",
+      "closing_balance": "45862.71"
+    },
+    {
+      "date": "2026-06-04",
+      "narration": "NEFT/RENT/LANDLORD SHARMA",
+      "reference_number": "REF677814",
+      "value_date": "2026-06-04",
+      "withdrawal": "1317.22",
+      "deposit": "",
+      "closing_balance": "44545.49"
+    },
+    {
+      "date": "2026-06-05",
+      "narration": "NEFT/RENT/LANDLORD SHARMA",
+      "reference_number": "REF334083",
+      "value_date": "2026-06-05",
+      "withdrawal": "2892.45",
+      "deposit": "",
+      "closing_balance": "41653.04"
+    },
+    {
+      "date": "2026-06-06",
+      "narration": "POS/BIGBASKET/PUNE IN",
+      "reference_number": "REF515949",
+      "value_date": "2026-06-06",
+      "withdrawal": "",
+      "deposit": "2948.95",
+      "closing_balance": "44601.99"
+    },
+    {
+      "date": "2026-06-07",
+      "narration": "UPI/402981/SWIGGY/REF77281",
+      "reference_number": "REF239643",
+      "value_date": "2026-06-07",
+      "withdrawal": "",
+      "deposit": "375.93",
+      "closing_balance": "44977.92"
+    },
+    {
+      "date": "2026-06-08",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF698646",
+      "value_date": "2026-06-08",
+      "withdrawal": "2772.33",
+      "deposit": "",
+      "closing_balance": "42205.59"
+    },
+    {
+      "date": "2026-06-09",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF208061",
+      "value_date": "2026-06-09",
+      "withdrawal": "3457.71",
+      "deposit": "",
+      "closing_balance": "38747.88"
+    },
+    {
+      "date": "2026-06-10",
+      "narration": "POS/BIGBASKET/PUNE IN",
+      "reference_number": "REF202163",
+      "value_date": "2026-06-10",
+      "withdrawal": "1061.17",
+      "deposit": "",
+      "closing_balance": "37686.71"
+    },
+    {
+      "date": "2026-06-11",
+      "narration": "POS/BIGBASKET/PUNE IN",
+      "reference_number": "REF749078",
+      "value_date": "2026-06-11",
+      "withdrawal": "2887.19",
+      "deposit": "",
+      "closing_balance": "34799.52"
+    },
+    {
+      "date": "2026-06-12",
+      "narration": "UPI/AMAZON PAY/REF11029",
+      "reference_number": "REF914983",
+      "value_date": "2026-06-12",
+      "withdrawal": "2728.84",
+      "deposit": "",
+      "closing_balance": "32070.68"
+    },
+    {
+      "date": "2026-06-13",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF479146",
+      "value_date": "2026-06-13",
+      "withdrawal": "4628.69",
+      "deposit": "",
+      "closing_balance": "27441.99"
+    },
+    {
+      "date": "2026-06-14",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF917710",
+      "value_date": "2026-06-14",
+      "withdrawal": "1021.87",
+      "deposit": "",
+      "closing_balance": "26420.12"
+    },
+    {
+      "date": "2026-06-15",
+      "narration": "UPI/AMAZON PAY/REF11029",
+      "reference_number": "REF619167",
+      "value_date": "2026-06-15",
+      "withdrawal": "1606.21",
+      "deposit": "",
+      "closing_balance": "24813.91"
+    },
+    {
+      "date": "2026-06-16",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF176756",
+      "value_date": "2026-06-16",
+      "withdrawal": "1546.50",
+      "deposit": "",
+      "closing_balance": "23267.41"
+    },
+    {
+      "date": "2026-06-17",
+      "narration": "UPI/402981/SWIGGY/REF77281",
+      "reference_number": "REF458671",
+      "value_date": "2026-06-17",
+      "withdrawal": "950.07",
+      "deposit": "",
+      "closing_balance": "22317.34"
+    },
+    {
+      "date": "2026-06-18",
+      "narration": "UPI/AMAZON PAY/REF11029",
+      "reference_number": "REF800675",
+      "value_date": "2026-06-18",
+      "withdrawal": "",
+      "deposit": "2195.24",
+      "closing_balance": "24512.58"
+    },
+    {
+      "date": "2026-06-19",
+      "narration": "UPI/402981/SWIGGY/REF77281",
+      "reference_number": "REF958105",
+      "value_date": "2026-06-19",
+      "withdrawal": "2929.18",
+      "deposit": "",
+      "closing_balance": "21583.40"
+    },
+    {
+      "date": "2026-06-20",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF620801",
+      "value_date": "2026-06-20",
+      "withdrawal": "1848.37",
+      "deposit": "",
+      "closing_balance": "19735.03"
+    },
+    {
+      "date": "2026-06-21",
+      "narration": "POS/BIGBASKET/PUNE IN",
+      "reference_number": "REF198142",
+      "value_date": "2026-06-21",
+      "withdrawal": "483.50",
+      "deposit": "",
+      "closing_balance": "19251.53"
+    },
+    {
+      "date": "2026-06-22",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF163616",
+      "value_date": "2026-06-22",
+      "withdrawal": "3371.14",
+      "deposit": "",
+      "closing_balance": "15880.39"
+    },
+    {
+      "date": "2026-06-23",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF961850",
+      "value_date": "2026-06-23",
+      "withdrawal": "4966.52",
+      "deposit": "",
+      "closing_balance": "10913.87"
+    },
+    {
+      "date": "2026-06-24",
+      "narration": "NEFT/RENT/LANDLORD SHARMA",
+      "reference_number": "REF801133",
+      "value_date": "2026-06-24",
+      "withdrawal": "2021.09",
+      "deposit": "",
+      "closing_balance": "8892.78"
+    },
+    {
+      "date": "2026-06-25",
+      "narration": "ACH-D-HDFC-EMI",
+      "reference_number": "REF276211",
+      "value_date": "2026-06-25",
+      "withdrawal": "2389.22",
+      "deposit": "",
+      "closing_balance": "6503.56"
+    }
+  ]
+}
